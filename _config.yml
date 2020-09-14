@@ -17,6 +17,7 @@ defaults:
 title: Minimalism
 name: Mathstarry
 description: 博文约礼
+theme: jekyll-theme-minimalism
 
 github: https://github.com/Mathstarry/Mathstarry.github.io
 rss: true
