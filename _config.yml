@@ -15,8 +15,8 @@ defaults:
       image: true
 
 title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+name: Mathstarry
+description: 博文约礼
 
 github: https://github.com/Mathstarry/Mathstarry.github.io
 rss: true
