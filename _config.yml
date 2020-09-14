@@ -14,13 +14,55 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: Mathstarry
-description: 博文约礼
-theme: jekyll-theme-minimalism
 
-github: https://github.com/Mathstarry/Mathstarry.github.io
-rss: true
+# --- 网站信息设置 ---
+# 下面填写你的博客标题
+title: Mathstarry的博客
+# 网站常用名
+name: Mathstarry
+# 网站描述
+description: 博文约礼
+# 网站域名
+github: https://Mathstarry.github.io
+# 在页尾的版权时间信息，比如：2016-2018，默认是 2018 年
+copyright_time: 2020
+# 标签页的 logo 及博客的头像，如果你想引用网络图片资源，就取消下面的注解，并填写图片资源的 url 地址
+# 或者，推荐的做法是将这两个图片资源下载到本地的 /assets/img/ 文件夹下，且图片名必须命名为 favicon 和 avatar
+# favicon:
+# avatar:
+# --- 网站信息设置 ---
+
+
+# --- 文章列表页 ---
+# 文章列表是否显示摘要
+show_excerpt: true
+# --- 文章页 ---
+
+
+# --- 社交链接 ---
+# 取消下面的注解，并填写相应的你要开启的社交链接
+# twitter: https://twitter.com/mathstarry
+# weibo: https://weibo.com/mathstarry
+github: https://github.com/Mathstarry
+leetcode: https://leetcode-cn.com/u/mathstarry/
+# 邮件地址前面带上 mailto:
+# email: mailto:465057895@qq.com
+# RSS 订阅
+# rss: true
+# --- 社交链接 ---
+
+
+# --- 站点统计 ---
+# 如果你想开启站点统计，取消下面一行注解，并填写相应统计运营商给的 id，可支持多个同时开启
+# site_statistics: true
+# cnzz (友盟统计)
+# cnzz_id: 
+# Baidu (百度统计)
+# baidu_id: 
+# Google Analytics (谷歌统计)
+# google_id:
+# --- 站点统计 ---
+
 
 plugins:
   - rouge
