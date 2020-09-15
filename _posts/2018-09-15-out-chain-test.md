@@ -1,8 +1,8 @@
 ---
 title: 外链测试
-date:  2018-08-25 21:37:50 +0800
-category: Minimalism
-tags: test
+date:  2020-09-15 21:37:50 +0800
+category: Markdown
+tags: Markdown
 excerpt: 各种外链的样式测试，本篇页面较多音视频资源加载，有的也需要科学上网。
 ---
 
